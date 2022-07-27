@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ugbede065
+- 👋 Hi, I’m ADAM UGBEDE @Ugbede065
 - 👀 I’m interested in collaborating and working on Sustainability Data 
 - 🌱 I’m currently learning python to achieve this
 - 💞️ I’m looking to collaborate on data around energy efficiency, Carbon emission, water consumption and waste management
